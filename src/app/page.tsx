@@ -11,7 +11,7 @@ export default function Home() {
     {img:"/jpeg/V1.4_アクソメ.jpg",title:"v1001"},
     {img:'/jpeg/V2.0_アクソメ.jpg',title:"v1001"},
     {img:'/jpeg/V3.0_アクソメ.jpg',title:"v1001"},
-    {img:'/jpeg/v1.2_unit.jpg',title:"v1001"},
+    {img:'/jpeg/v1.2_unit.jpg',title:"v1081"},
     // {img:'/jpeg/V1.0_アクソメ.jpg',title:"v1001"},
     // {img:'/jpeg/V1.0_アクソメ.jpg',title:"v1001"},
     // {img:'/jpeg/V1.0_アクソメ.jpg',title:"v1001"},
