@@ -39,7 +39,7 @@ export default function Home() {
         <Typography>おいしいごはん</Typography>
         <ImageList variant="masonry" cols={3} gap={8}>
         {imageListData.map((item) => (
-          <ImageListItem >
+          <ImageListItem key={item.img} >
             <img
               srcSet={`${item.img}?w=248&fit=crop&auto=format&dpr=2 2x`}
               src={`${item.img}?w=248&fit=crop&auto=format`}
